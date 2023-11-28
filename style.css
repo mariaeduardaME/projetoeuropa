@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: linear-gradient(to left, #fca17a, #fdd0a9);
+  }
+.box {
+    width: 80%;
+    background: linear-gradient(to left, #b48a78, #e9c8ba, #c78a70);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    max-width:1000px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    border-radius: 20px;
+    width: 400px;
+}
+footer{
+    margin-top: 10px;
+    height: 50px;
+    width: auto;
+    background-color: #b48a78;
+}
+a{
+    margin-left: 900px;
+}
